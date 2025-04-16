@@ -121,6 +121,6 @@ st.markdown("""
     </style>
 
     <div class="footer">
-        📚 Library Management System | Developed by <i><b>Harsh, Aditya ,and Dishant</b></i>
+        📚 Library Management System | Developed by <i><b>Harsh</b></i>
     </div>
 """, unsafe_allow_html=True)
